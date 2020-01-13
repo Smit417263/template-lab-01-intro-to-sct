@@ -11,3 +11,4 @@ int main()
     cout << "Rectangle area: " << rect.area() << endl;
     return 0;
 }
+
